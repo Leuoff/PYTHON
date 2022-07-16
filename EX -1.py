@@ -1,4 +1,2 @@
-# PYTHON
-MEUS EXERCICIOS DO CURSO EM VIDEO - MUNDOS (1,2,3)
 
-print ("Olá Mundo!")     
+print ("Olá Python!")     
